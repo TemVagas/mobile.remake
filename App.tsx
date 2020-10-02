@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <>
       <Routes />
-      <StatusBar style="auto" />
+      <StatusBar style="inverted" backgroundColor="#000" />
     </>
   );
 };
