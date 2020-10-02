@@ -1,25 +1,29 @@
-import React, { useState } from "react";
-import { StatusBar } from "expo-status-bar";
-import { View, Text, Button } from "react-native";
+import React from "react";
+import { FlatList, Alert, SafeAreaView } from "react-native";
+import Post from "../../components/Post";
+
+import PostTypes from "../../models";
+import Mock from "../../mocks/_posts.json";
 import styles from "./styles";
 
 const Feed: React.FC = () => {
-  const [readMore, setReadMore] = useState<boolean>(false);
-
-  const handleOnPressLearnMore = (): void => setReadMore(!readMore);
+  const dataMock: PostTypes[] = Object(Mock);
 
   return (
-    <View style={styles.container}>
-      <Button
-        onPress={handleOnPressLearnMore}
-        title="Muda o estado carai"
-        color="#74d"
+    <SafeAreaView style={styles.container}>
+      <FlatList
+        style={{ marginTop: 24, marginBottom: 12 }}
+        data={dataMock}
+        showsVerticalScrollIndicator={false}
+        renderItem={({ item }) => (
+          <Post
+            data={item}
+            onPress={() => Alert.alert(`Olá: ${item.user.fullName}`)}
+          />
+        )}
+        keyExtractor={(item) => item.id_post as string}
       />
-
-      {readMore && <Text>Salve!</Text>}
-
-      <StatusBar style="auto" />
-    </View>
+    </SafeAreaView>
   );
 };
 
