@@ -1,0 +1,302 @@
+[
+  {
+    "id_post": 0,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 1,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 2,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 4,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 5,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 6,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 7,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 8,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 9,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  },
+  {
+    "id_post": 10,
+    "user": {
+      "userName": "mpgxc",
+      "fullName": "Mateus Garcia",
+      "phone": "558999191275",
+      "email": "mpgxc@gmail.com",
+      "avatar": "https://avatars1.githubusercontent.com/u/13613590?s=400&u=569912bcd54d3ce94e4f8d697cc1b05baf763fc0&v=4",
+    },
+    "post": {
+      "avatarPost": "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+      "description": "Procurando estudantes para dividir casa, dois quartas vagos, entre em contato pra conhecer o imovel...",
+      "value": "350",
+      "labels": [
+        "internet",
+        "gas",
+        "garagem",
+        "pets"
+      ],
+      "images": [
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506",
+        "https://image.cnbcfm.com/api/v1/image/105387163-1533822270436gettyimages-614264148.jpeg?v=1533822315&w=900&h=506"
+      ],
+      "is_house": true
+    }
+  }
+]
