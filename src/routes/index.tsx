@@ -1,8 +1,13 @@
 import React from "react";
-import Feed from "../screens/Feed";
+import { NavigationContainer } from "@react-navigation/native";
+import App from "./app.route";
 
 const routes: React.FC = () => {
-  return <Feed />;
+  return (
+    <NavigationContainer>
+      <App />
+    </NavigationContainer>
+  );
 };
 
 export default routes;
