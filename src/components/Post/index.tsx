@@ -1,5 +1,7 @@
 import React from "react";
-import { Text, View, TouchableOpacity } from "react-native";
+import { Text, View, Image, TouchableOpacity } from "react-native";
+import { useNavigation } from "@react-navigation/native";
+import { RectButton } from "react-native-gesture-handler";
 
 import PostTypes from "../../models";
 import Avatar from "../Avatar";
@@ -8,16 +10,37 @@ import styles from "./styles";
 type Props = { data: PostTypes; onPress?: () => void };
 
 const Post: React.FC<Props> = ({ data, onPress }) => {
+  const navigation = useNavigation();
+
+  const handleNavigateTo = () => navigation.navigate("Profile");
+
   return (
-    <TouchableOpacity onPress={onPress} style={styles.container}>
-      <Avatar path={data.user.avatar} />
-      <View style={styles.infos}>
-        <Text>{data.user.fullName}</Text>
-        <Text>{data.user.phone}</Text>
-        <Text>{data.user.email}</Text>
-        <Text>{data.user.userName}</Text>
+    <View style={styles.mainContainer}>
+      <View style={styles.topContainer}>
+        <TouchableOpacity onPress={handleNavigateTo}>
+          <Avatar path={data.user.avatar} />
+        </TouchableOpacity>
+        <View style={styles.infos}>
+          <Text>{data.user.fullName}</Text>
+          <Text>{data.user.email}</Text>
+        </View>
       </View>
-    </TouchableOpacity>
+      <Image
+        style={styles.mainImagePost}
+        source={{ uri: data.post.avatarPost }}
+      />
+      <View style={styles.descriptionContainer}>
+        <Text>{data.post.description}</Text>
+      </View>
+      <View style={styles.footerContainer}>
+        <RectButton onPress={() => {}} style={styles.button}>
+          <Text style={styles.buttonText}>Ver mais</Text>
+        </RectButton>
+        <RectButton onPress={() => {}} style={styles.button}>
+          <Text style={styles.buttonText}>Favoritar</Text>
+        </RectButton>
+      </View>
+    </View>
   );
 };
 
