@@ -19,5 +19,5 @@ export interface PostDetails {
 export default interface PostTypes {
   id_post: number | string;
   user: User;
-  details: PostDetails;
+  post: PostDetails;
 }
