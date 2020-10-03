@@ -1,15 +1,23 @@
 import React from "react";
 import { Image } from "react-native";
 
-const Avatar: React.FC<{ path: string }> = ({ path }) => (
-  <Image
-    style={{
-      width: 56,
-      height: 56,
-      borderRadius: 100,
-    }}
-    source={{ uri: path }}
-  />
-);
+type Props = {
+  width?: number;
+  heigth?: number;
+  path: string;
+};
+
+const Avatar: React.FC<Props> = ({ path, width, heigth }) => {
+  return (
+    <Image
+      style={{
+        width: width ?? 48,
+        height: heigth ?? 48,
+        borderRadius: 100,
+      }}
+      source={{ uri: path }}
+    />
+  );
+};
 
 export default Avatar;
