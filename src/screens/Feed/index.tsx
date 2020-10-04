@@ -77,7 +77,7 @@ const Feed: React.FC = () => {
               onPress={() => Alert.alert(`Olá: ${item.user.fullName}`)}
             />
           )}
-          keyExtractor={(item) => item.id_post as string}
+          keyExtractor={(item) => item.id_post.toString()}
         />
       )}
     </SafeAreaView>
