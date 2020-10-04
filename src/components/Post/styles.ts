@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFF",
     width: windowWidth - 16,
     marginTop: 8,
+    marginBottom: 20,
     padding: 16,
     borderWidth: 1,
     borderColor: "#e6e6f0",
@@ -27,7 +28,7 @@ const styles = StyleSheet.create({
   button: {
     marginTop: 16,
     padding: 12,
-    backgroundColor: Colors.blackTheme.red,
+    backgroundColor: Colors.blackTheme.primary,
     borderRadius: Constants.borderRadius,
     alignItems: "center",
     width: "48%",
