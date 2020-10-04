@@ -1,6 +1,6 @@
 import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { Ionicons } from "@expo/vector-icons";
+import { AntDesign } from "@expo/vector-icons";
 
 import Feed from "../screens/Feed";
 import Profile from "../screens/Feed";
@@ -15,41 +15,21 @@ const App: React.FC = () => {
 
         style: {
           elevation: 0,
-          shadowOpacity: 0,
-          height: 64,
-        },
-
-        tabStyle: {
-          flexDirection: "row",
-          alignItems: "center",
-          justifyContent: "center",
-        },
-
-        iconStyle: {
-          flex: 0,
-          width: 20,
-          height: 30,
-        },
-
-        labelStyle: {
-          fontSize: 14,
-          fontFamily: "Archivo_700Bold",
-          textAlign: "center",
-          alignSelf: "center",
-          marginLeft: 10,
+          shadowOpacity: 1,
+          height: 50,
         },
 
         inactiveBackgroundColor: "#FAFAFC",
         activeBackgroundColor: "#EBEBF5",
         inactiveTintColor: "#c1bccc",
-        activeTintColor: Colors.blackTheme.red,
+        activeTintColor: Colors.blackTheme.primary,
       }}
     >
       <Screen
         options={{
           tabBarLabel: "Feed",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="md-list" size={size} color={color} />
+            <AntDesign name="home" size={size} color={color} />
           ),
         }}
         name="Feed"
@@ -58,9 +38,20 @@ const App: React.FC = () => {
 
       <Screen
         options={{
+          tabBarLabel: "Favoritos",
+          tabBarIcon: ({ color, size }) => (
+            <AntDesign name="hearto" size={size} color={color} />
+          ),
+        }}
+        name="Favoritos"
+        component={Feed}
+      />
+
+      <Screen
+        options={{
           tabBarLabel: "Profile",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="md-person" size={size} color={color} />
+            <AntDesign name="setting" size={size} color={color} />
           ),
         }}
         name="Profile"
