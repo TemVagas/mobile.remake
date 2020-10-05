@@ -5,21 +5,11 @@ import { Text, View } from "react-native";
 import NovoButton from "../components/NovoButton";
 
 import Feed from "../screens/Feed";
+import Novo from "../screens/Novo";
 import Favorites from "../screens/Favorites";
-import Colors from "../constants/colors";
+import Hello from "../screens/Hello";
 
-const Hello = () => (
-  <View
-    style={{
-      flex: 1,
-      backgroundColor: "#F5F5F5",
-      justifyContent: "center",
-      alignItems: "center",
-    }}
-  >
-    <Text style={{ color: "#333", fontSize: 150 }}>Hello</Text>
-  </View>
-);
+import Colors from "../constants/colors";
 
 const App: React.FC = () => {
   const { Navigator, Screen } = createBottomTabNavigator();
@@ -94,7 +84,7 @@ const App: React.FC = () => {
         component={Favorites}
       />
 
-      <Screen name="Novo" component={Hello} />
+      <Screen name="Novo" component={Novo} />
 
       <Screen
         options={{
