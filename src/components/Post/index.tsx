@@ -33,10 +33,10 @@ const Post: React.FC<Props> = ({ data, onPress }) => {
         <Text>{data.post.description}</Text>
       </View>
       <View style={styles.footerContainer}>
-        <RectButton onPress={() => {}} style={styles.button}>
+        <RectButton onPress={onPress} style={styles.button(true)}>
           <Text style={styles.buttonText}>Ver mais</Text>
         </RectButton>
-        <RectButton onPress={() => {}} style={styles.button}>
+        <RectButton onPress={onPress} style={styles.button(false)}>
           <Text style={styles.buttonText}>Favoritar</Text>
         </RectButton>
       </View>
