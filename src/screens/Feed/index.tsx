@@ -61,11 +61,9 @@ const Feed: React.FC = () => {
           data={dataMock}
           onScroll={(event) => {
             const index = event.nativeEvent.contentOffset.y;
-            if (index > 1) {
-              navigation.setOptions({ tabBarVisible: false });
-            } else {
-              navigation.setOptions({ tabBarVisible: true });
-            }
+            navigation.setOptions({
+              tabBarVisible: index > 1 ? false : true,
+            });
           }}
           onRefresh={refreshList}
           refreshing={refreshing}
