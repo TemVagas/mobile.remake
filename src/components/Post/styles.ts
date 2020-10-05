@@ -1,4 +1,4 @@
-import { StyleSheet, Dimensions } from "react-native";
+import { StyleSheet, Dimensions, ViewStyle } from "react-native";
 import Constants from "../../constants/stylesConstants";
 import Colors from "../../constants/colors";
 
@@ -25,14 +25,16 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
   },
 
-  button: {
+  button: (whoclass: boolean) => ({
     marginTop: 16,
     padding: 12,
-    backgroundColor: Colors.blackTheme.primary,
+    backgroundColor: whoclass
+      ? Colors.blackTheme.primary
+      : Colors.blackTheme.secondary,
     borderRadius: Constants.borderRadius,
     alignItems: "center",
     width: "48%",
-  },
+  }),
 
   buttonText: {
     color: "#FFF",
